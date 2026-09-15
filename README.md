@@ -2,8 +2,8 @@
 
 > **React & SPA 기반의 공연·전시 타임커머스 웹 애플리케이션**
 
-🔗 **[웹사이트 바로가기 (배포 링크)](여기에_홈페이지_주소_붙여넣기)**  
-📁 **[발표 자료 원본 다운로드 (PPTX)](./TimeTicket_Portfolio.pptx)**
+🔗 **[웹사이트 바로가기 (배포 링크)](https://rudals0578-max.github.io/)**  
+📁 **[발표 자료 원본 다운로드 (PPTX)](./TimeTicket_Portfolio.pptx?raw=true)**
 
 ---
 
